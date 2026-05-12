@@ -152,7 +152,7 @@ the app:
 You only need to re-run `python seed.py` if you delete the `oil_price_viz.db`
 file or want a fresh database.
 
-## API surface (matches slide 6 exactly)
+## API surface 
 
 | Method | Endpoint | Purpose |
 |--------|----------|---------|
